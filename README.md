@@ -9,4 +9,5 @@ In this course you will learn about:
 * wavelet decomposition,
 * source separation for mixed signals,
 * classification based on your measurements
+  
 through ECG, EEG, PPG, PCG, BP, EMG, ENG signals.
